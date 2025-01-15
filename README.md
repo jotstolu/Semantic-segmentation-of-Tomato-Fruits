@@ -19,7 +19,8 @@ The goal of this project is to develop effective semantic segmentation technique
    - 	**YOLO V8-seg**: To train this sophisticated model, the yolov8x-seg.pt variant, pre-trained on the COCO dataset, was fine-tuned on the custom dataset of tomato fruit images.
 
 ## Inference/Prediction
+`Inference on some samples from the test dataset`
+![Screenshot 2024-08-25 132918](https://github.com/user-attachments/assets/6ace552c-4fa3-4445-b351-6e862c601669)
+![Screenshot 2024-11-30 082114](https://github.com/user-attachments/assets/088b8dbd-a393-4545-8ee9-a79cf4c8bb32)
 
-![Inference on a test image of the dataset](https://private-user-images.githubusercontent.com/121890747/391239430-4ba735d0-7b08-453a-80f1-aba88b9576b6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI5NzQwOTUsIm5iZiI6MTczMjk3Mzc5NSwicGF0aCI6Ii8xMjE4OTA3NDcvMzkxMjM5NDMwLTRiYTczNWQwLTdiMDgtNDUzYS04MGYxLWFiYTg4Yjk1NzZiNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEzMFQxMzM2MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNjYzNmE1YWM0MGUxODFiNWRmNGE2MjM4OWQzYjAzMTdlMjNkYWYzM2YxMDcyZmRmNmFjNDc1ZTg4YWE4MDQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.X6zlOPxSnVWCzti2yIwZDIxC19bH3mbk2I-AiowHmWQ)
-`Inference on a sample from the test dataset`
 
